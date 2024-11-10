@@ -4,16 +4,16 @@ Source code for Research paper
 Trajectory Prediction with Influence Score
 This project demonstrates a trajectory prediction model using LSTM networks with and without influence scores. It explores how incorporating influence scores can improve the accuracy and reliability of trajectory prediction, especially in contexts where additional contextual or external factors impact motion or path planning (e.g., autonomous vehicles, robotic navigation, or human movement prediction).
 
-Table of Contents \n
-Overview \n
-Research Motivation and Benefits \n
-Dataset and Preprocessing \n
-Model Architecture\n
-Training and Evaluation\n
-Results and Comparisons\n
-Getting Started\n
-Future Work\n
-Acknowledgments\n
+Table of Contents 
+Overview 
+Research Motivation and Benefits 
+Dataset and Preprocessing 
+Model Architecture
+Training and Evaluation
+Results and Comparisons
+Getting Started
+Future Work
+Acknowledgments
 Overview
 Trajectory prediction is essential in various fields, from autonomous navigation to sports analytics. This project introduces a method for enhancing trajectory prediction by integrating influence scores — contextual factors or additional data points that may impact the trajectory. The system demonstrates:
 
